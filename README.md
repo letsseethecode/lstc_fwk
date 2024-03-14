@@ -10,3 +10,10 @@ If you have an idea or a suggestion, please speak to us in the discord chat via 
 ## What are we going to build?
 
 > We are going to build a frontend project
+
+## Technologies
+We are going to utilise the following to build this:
+* Html
+* Javascript
+* GSAP
+

@@ -26,6 +26,7 @@ Type heavy, scroll journey, lots of fun
 We are going to utilise the following to build this:
 * Html
 * Javascript
+* Tailwind
 * GSAP
 
 ## How long will it take?

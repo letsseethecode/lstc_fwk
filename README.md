@@ -1,7 +1,10 @@
 # Weareframework
 This is the repo for the lets the code project that we are going to build over the next few months.
 
-Our aim is to keep this open, fun, engaging, experimental and to encourage everyone to feel comfortable in taking part.
+Our aim is to keep this open, fun, engaging, experimental and to encourage everyone to feel comfortable in taking part and keeping the code as the star.
+
+Good code allows us to push ourselves to bring more complex and creative designs to life.
+We pride ourselves in creativity, innovation, and collaboration to solve problems with unique and creative solutions.
 
 Your ideas, big or small, matter.
 
@@ -13,16 +16,17 @@ If you have an idea or a suggestion, please speak to us in the discord chat via 
 > It will be fun
 > You can build with us too
 
+The code is the star (of course), but so are the designs.
 The design is in figma here: {design link}
+
+We wanted to showcase something that shows what Framework is and what we do well.
+Type heavy, scroll journey, lots of fun
 
 ## What technologies are going to use?
 We are going to utilise the following to build this:
 * Html
 * Javascript
 * GSAP
-
-## What design tool are you using?
-We are using Figma for the design
 
 ## How long will it take?
 As long as we all want.

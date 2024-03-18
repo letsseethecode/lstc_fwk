@@ -30,8 +30,12 @@ We are going to utilise the following to build this:
 * GSAP
 
 ## How long will it take?
-As long as we all want.
-Projects with deadlines are part and parcel of agency day to day but this project is meant to be fun for everyone. So we will take the time to do it.
+It takes as long as it takes.
+
+Projects with deadlines are part and parcel of agency day to day but this project is meant to be fun for everyone. 
+
+So we will take the time to do it.
+
 All PRs are welcome and we want anyone who gets involved to take the time to learn and enjoy learning. Ask questions
 
 ## I want to get involed, Who do I speak to?

@@ -11,13 +11,12 @@ Your ideas, big or small, matter.
 If you have an idea or a suggestion, please speak to us in the discord chat via the link tree link here https://linktr.ee/letsseethecode
 
 ## What are we going to build?
+Our lead designer, Jim (well known for his love of purple) has created a microsite for us to build, so we can share our process for creating frontend-heavy sites with lots of animations
 
-> We are going to build a frontend project.
-> It will be fun
-> You can build with us too
+We wanted to showcase something that shows what framework is and what we do well.
 
 The code is the star (of course), but so are the designs.
-The design is in figma here: {design link}
+The design is in figma here: {design link to come}
 
 We wanted to showcase something that shows what Framework is and what we do well.
 Type heavy, scroll journey, lots of fun

@@ -16,7 +16,8 @@ Our lead designer, Jim (well known for his love of purple) has created a microsi
 We wanted to showcase something that shows what framework is and what we do well.
 
 The code is the star (of course), but so are the designs.
-The design is in figma here: {design link to come}
+The design is in figma but here is what we are going to build:
+![Alt text](assets/design.png "Optional title")
 
 We wanted to showcase something that shows what Framework is and what we do well.
 Type heavy, scroll journey, lots of fun

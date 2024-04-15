@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "PP Agrandir Grand";
+  src: url("./../assets/fonts/PPAgrandir-GrandLight.woff2") format("woff2"),
+    url("./../assets/fonts/PPAgrandir-GrandLight.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PP Agrandir Grand";
+  src: url("./../assets/fonts/PPAgrandir-GrandHeavy.woff2") format("woff2"),
+    url("./../assets/fonts/PPAgrandir-GrandHeavy.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+.heading-2xl {
+  @apply text-[310px] leading-[75%] tracking-[-15.5px];
+}
+.heading-sm {
+  @apply text-[130px] leading-[75%] tracking-[-6.5px];
+}

@@ -16,9 +16,26 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Migra";
+  src: url("./../assets/fonts/Migra-Extralight.woff2") format("woff2"),
+  url("./../assets/fonts/Migra-Extralight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
 .heading-2xl {
-  @apply text-[310px] leading-[75%] tracking-[-15.5px];
+  @apply text-[107px] md:text-[205px] xl:text-[310px] leading-[75%] tracking-[-15.5px];
 }
 .heading-sm {
-  @apply text-[130px] leading-[75%] tracking-[-6.5px];
+  @apply text-[44px] md:text-[85px] xl:text-[130px] leading-[75%] tracking-[-6.5px];
+}
+
+.feature { 
+  @apply text-[20px] leading-[130%] tracking-[0.2px]
+}
+
+.copy { 
+  @apply text-[16px] leading-[130%] tracking-[0.14px];
 }

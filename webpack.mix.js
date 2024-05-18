@@ -7,6 +7,7 @@ mix
     tailwindcss("./tailwind.config.js"),
   ])
   .copy("index.html", "dist")
+  .copyDirectory('src/assets/images', 'dist/assets/images') 
   .setPublicPath("dist")
   .browserSync({
     proxy: false,

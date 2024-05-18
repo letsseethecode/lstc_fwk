@@ -1,0 +1,7 @@
+.site-header__link {
+    @apply font-migra text-[14px] leading-[75%] tracking-[0.12px] flex items-center;
+}
+
+.site-header__circle {
+    @apply bg-burntOrange w-[6px] h-[6px] mr-10 mb-[3px] rounded-full group-hover:scale-[1.7] shrink-0;
+}

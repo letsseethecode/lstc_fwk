@@ -1,6 +1,12 @@
+import ScrollTrigger from "gsap/ScrollTrigger";
+import gsap from 'gsap';
+gsap.registerPlugin(ScrollTrigger);
+
 export default class StickyText {
     constructor() {
       this.getDom()
+
+      console.log(this.dom)
 
       if(!this.dom.heading) return
 
@@ -9,12 +15,19 @@ export default class StickyText {
 
     getDom() {
         this.dom = {
+          body: document.querySelector('.index'),
           heading: document.querySelector('.sticky-text')
         }
     }
   
     createPin() {
-      
+        ScrollTrigger.create({
+            pin: this.dom.heading,
+            trigger: this.dom.body,
+            start: 'top top',
+            end: "bottom bottom",
+            pinSpacing: false
+          })
     }
   
   }

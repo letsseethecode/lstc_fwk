@@ -1,5 +1,5 @@
 .site-header__link {
-    @apply font-migra text-[14px] leading-[75%] tracking-[0.12px] flex items-center;
+    @apply font-ppMigra text-[14px] leading-[75%] tracking-[0.12px] flex items-center;
 }
 
 .site-header__circle {

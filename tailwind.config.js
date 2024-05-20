@@ -101,8 +101,8 @@ module.exports = {
         "-apple-system",
         "sans-serif",
       ],
-      migra: [
-        "Migra",
+      ppMigra: [
+        "PP Migra",
         "Helvetica Neue",
         "Arial",
         "Noto Sans",

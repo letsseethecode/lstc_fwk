@@ -6,8 +6,6 @@ export default class StickyText {
     constructor() {
       this.getDom()
 
-      console.log(this.dom)
-
       if(!this.dom.heading) return
 
       this.createPin()
@@ -26,9 +24,9 @@ export default class StickyText {
             trigger: this.dom.body,
             start: 'top top',
             end: "bottom bottom",
-            pinSpacing: false
+            pinSpacing: false,
+            markers: true
           })
     }
   
   }
-  
